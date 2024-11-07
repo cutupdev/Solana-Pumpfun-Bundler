@@ -1,51 +1,18 @@
 ### Pump.Fun Bundler
 
-Welcome to the Open-Source **Pump.Fun Bundler** – your ultimate solution for bundling on Pump.Fun with advanced profile creation and anti-bubble maps!
-
-This open-source and free tool offers the most efficient self-bundling script for Pump.Fun, enabling you to launch a token with 20 different wallets and profiles. 
-
-Enjoy launches that are completely bubble maps-proof and anti-Photon SB marks.
-
-For more details, join our Discord at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+This is bundler for pump.fun, enabling you to launch a token with 20 different wallets and profiles. 
+From this repositery, you can bundle 20 buy transactions for pump.fun and can have basic understanding about solana bundler.
+It's the basic free version and I developed advanced version for it.
+Feel free to contact with me on Whatsapp[https://wa.me/13137423660] or Telegram[https://t.me/DevCutup]
 
 
-
-## Features
-
-### Seamless UI
-- **💊 Intuitive User Interface:** Experience a straightforward and completely automatic user interface designed for ease of use and efficiency.
-
-### Advanced Profile Creation
-- **🧑 Random Profiles:** Automatically generate profiles for each wallet to ensure maximum authenticity, with each wallet holding different random tokens.
-
-### Custom LUT Program
-- **🔥 Custom LUT Program:** Leverage our custom Look-Up Table (LUT) program to optimize your launch strategies.
-
-### Automatic Supply Deviation
-- **🚨 Supply Management:** Automatically manage supply deviations for smooth and efficient launches.
-
-### Custom Configurable Buyers
-- **🔔 Configurable Buyers:** Customize and configure up to 20 different keypair buyers for personalized launch strategies.
-
-### Unmatched Performance
-- **🤖 Performance and Speed:** Benefit from unparalleled performance, stability, and speed with our tool.
-
-### Custom Onchain Program
-- **📂 Onchain Integration:** Seamlessly integrate and operate with our bespoke onchain program.
-
-### Complex Sell Strategies
-- **💸 Sell Strategies:** Implement complex percentage-based sell strategies across all keypairs simultaneously.
-
-### And Much More!
-- Discover even more features designed to optimize your launch experience and help you profit from your Pump.Fun launches.
-
-## Installation
+## How to use it
 
 To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/cicero/pumpfun-bundler.git
+    git clone https://github.com/cutupdev/Solana-Pumpfun-Bundler.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -80,9 +47,3 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 3. **Profit:**
     Sit back and profit from your successful Pump.Fun launches!
-
-## Support and Contributions
-
-As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at @benorizz0.
-
-Enjoy seamless, efficient, and profitable launches with the Pump.Fun Launch Bundle Tool!
