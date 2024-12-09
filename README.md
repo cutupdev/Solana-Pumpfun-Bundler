@@ -1,6 +1,6 @@
 ### Pump.Fun Bundler
 
-This is bundler for pump.fun, enabling you to launch a token with 20 different wallets and profiles. 
+This is bundler for pump.fun, enabling you to launch a token with 28 different wallets and profiles. 
 From this repositery, you can bundle 20 buy transactions for pump.fun and can have basic understanding about solana bundler.
 It's the basic free version and I developed advanced version for it.
 Feel free to contact with me on Whatsapp[https://wa.me/13137423660] or Telegram[https://t.me/DevCutup]
